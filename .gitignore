@@ -22,6 +22,8 @@ staticfiles/
 # Node
 node_modules/
 dist/
+.next/
+.turbo/
 
 # OS / Editor
 .DS_Store
